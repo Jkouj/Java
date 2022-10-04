@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rectangles
+comment0.text=\n\ Rectangles.java\n\ Joey\ Koumjian\ \n\ 7/3/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p
+comment2.target=void\ printPoint(java.awt.Point)
+comment3.params=p1\ p2
+comment3.target=double\ distance(java.awt.Point,\ java.awt.Point)
+comment4.params=rect
+comment4.target=java.awt.Point\ findCenter(java.awt.Rectangle)
+comment5.params=r
+comment5.target=java.awt.Point\ lowerRight(java.awt.Rectangle)
+comment6.params=r
+comment6.target=java.awt.Rectangle\ adjacentRectangle(java.awt.Rectangle)
+numComments=7

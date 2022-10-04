@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DrawFlag
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g\ frame
+comment3.target=void\ japaneseFlag(java.awt.Graphics,\ java.awt.Rectangle)
+comment4.params=g\ frame
+comment4.target=void\ columbianFlag(java.awt.Graphics,\ java.awt.Rectangle)
+comment5.params=g\ frame
+comment5.target=void\ sweedishFlag(java.awt.Graphics,\ java.awt.Rectangle)
+comment6.params=g\ frame
+comment6.target=void\ czechFlag(java.awt.Graphics,\ java.awt.Rectangle)
+comment7.params=rect
+comment7.target=java.awt.Point\ findCenter(java.awt.Rectangle)
+numComments=8
