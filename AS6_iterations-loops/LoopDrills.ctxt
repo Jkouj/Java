@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LoopDrills
+comment0.text=\ \n\ Drills\ in\ different\ Looping\ constructs\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=startC\ stopC\ stepC
+comment2.target=void\ C2FTable(int,\ int,\ int)
+comment3.params=startM\ stopM\ stepM
+comment3.target=void\ miles2kmTable(int,\ int,\ double)
+numComments=4
