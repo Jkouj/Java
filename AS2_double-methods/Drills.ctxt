@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Drills
+comment0.text=\n\ Write\ a\ description\ of\ class\ Drills\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=hours\ rate
+comment2.target=void\ payCheck(double,\ double)
+comment3.params=radius\ height
+comment3.target=void\ volume(double,\ double)
+comment3.text=\n\ Hours\:\ 40.0\ Rate\:\ 7.75\ Amount\:\ $310.0\n\ Hours\:\ 20.0\ Rate\:\ 9.25\ Amount\:\ $185.0\n\ Hours\:\ 50.0\ Rate\:\ 12.5\ Amount\:\ $625.0\n
+comment4.params=inches
+comment4.target=void\ feetAndInches(float)
+comment4.text=\n\ Radius\:\ 0.5\ Height\:\ 3.0\ Volume\:\ 2.356194490192345\n\ Radius\:\ 2.0\ Height\:\ 2.0\ Volume\:\ 25.132741228718345\n
+comment5.params=revenue\ sold
+comment5.target=void\ averageSale(double,\ double)
+comment5.text=\n\ Inches\:\ 40.0\ Feet\:\ 3.3333332538604736\ Leftover\ Inches\:\ 9.5367431640625E-7\n
+numComments=6
