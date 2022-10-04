@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BoxBug
+comment0.text=\n\ A\ <code>BoxBug</code>\ traces\ out\ a\ square\ "box"\ of\ a\ given\ size.\ <br\ />\n\ The\ implementation\ of\ this\ class\ is\ testable\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\n
+comment1.params=length
+comment1.target=BoxBug(int)
+comment1.text=\n\ Constructs\ a\ box\ bug\ that\ traces\ a\ square\ of\ a\ given\ side\ length\n\ @param\ length\ the\ side\ length\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Moves\ to\ the\ next\ location\ of\ the\ square.\n
+numComments=3

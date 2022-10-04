@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TermiteRunner
+comment0.text=\n\ This\ class\ runs\ a\ world\ that\ contains\ Termites.\ <br\ />\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=world\ n
+comment2.target=void\ makeFlowers(info.gridworld.actor.ActorWorld,\ int)
+numComments=3
