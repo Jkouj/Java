@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ScrabblePractice
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScrabblePractice\ here.\r\n\ \r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s\ c
+comment2.target=int\ countLetters(java.lang.String,\ char)
+comment3.params=tiles
+comment3.target=void\ printAllTiles(java.util.ArrayList)
+comment4.params=word\ rack
+comment4.target=boolean\ validWord(java.lang.String,\ java.util.ArrayList)
+comment5.params=letter\ rack
+comment5.target=int\ scoreOfLetter(char,\ java.util.ArrayList)
+comment6.params=word\ rack
+comment6.target=int\ scoreWord(java.lang.String,\ java.util.ArrayList)
+numComments=7
