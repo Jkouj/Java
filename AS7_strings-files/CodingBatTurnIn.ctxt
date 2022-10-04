@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CodingBatTurnIn
+comment0.text=\n\ CodingBatTurnIn.java\n\ Joey\ Koumjian\n\ 7/3/22\n
+comment1.params=name
+comment1.target=java.lang.String\ helloName(java.lang.String)
+comment2.params=a\ b
+comment2.target=java.lang.String\ makeAbba(java.lang.String,\ java.lang.String)
+comment3.params=tag\ word
+comment3.target=java.lang.String\ makeTags(java.lang.String,\ java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ extraEnd(java.lang.String)
+comment5.params=str
+comment5.target=boolean\ frontAgain(java.lang.String)
+comment6.params=str
+comment6.target=java.lang.String\ doubleChar(java.lang.String)
+comment7.params=str
+comment7.target=int\ countHi(java.lang.String)
+comment8.params=str
+comment8.target=boolean\ xyBalance(java.lang.String)
+comment9.params=str\ n
+comment9.target=java.lang.String\ repeatEnd(java.lang.String,\ int)
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WordOfFortune
+comment1.params=
+comment1.target=void\ WordOfFortune()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WordOfFortune\n
+comment2.params=wordA\ wordB
+comment2.target=void\ printCorrectLetters(java.lang.String,\ java.lang.String)
+numComments=3
