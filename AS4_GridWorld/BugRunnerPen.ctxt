@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BugRunnerPen
+comment0.text=\n\ This\ class\ runs\ a\ world\ that\ contains\ a\ bug\ and\ a\ "bug\ pen"\ made\ of\ rocks,\ \n\ arranged\ in\ a\ square\ pattern.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=world\ row\ col\ numRocks
+comment2.target=void\ vertRockLine(info.gridworld.actor.ActorWorld,\ int,\ int,\ int)
+comment3.params=world\ row\ col\ numRocks
+comment3.target=void\ horizRockLine(info.gridworld.actor.ActorWorld,\ int,\ int,\ int)
+numComments=4
