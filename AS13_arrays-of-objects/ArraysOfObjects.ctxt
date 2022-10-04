@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ArraysOfObjects
+comment0.text=\n\ Joey\ Koumjian\n\ ArraysOfObjects.java\n\ 7/24/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=startup
+comment2.target=void\ printAllEmployees(Employee[])
+comment3.params=startup\ value
+comment3.target=void\ giveRaiseToAll(Employee[],\ int)
+numComments=4

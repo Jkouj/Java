@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ class\ Time\ represents\ a\ time\ of\ day\ in\ hours,\ min,\ sec\r\n\ \ \ We\ develop\ this\ class\ in\ the\ lecture,\ watch\ the\ video\r\n\ \ \ to\ see\ the\ class\ being\ developed\ and\ follow\ along\r\n
+comment1.params=
+comment1.target=Time()
+comment2.params=hour\ minute\ second
+comment2.target=Time(int,\ int,\ double)
+comment3.params=
+comment3.target=int\ getHour()
+comment4.params=
+comment4.target=int\ getMinute()
+comment5.params=
+comment5.target=double\ getSecond()
+comment6.params=hour
+comment6.target=void\ setHour(int)
+comment7.params=minute
+comment7.target=void\ setMinute(int)
+comment8.params=second
+comment8.target=void\ setSecond(double)
+comment9.params=
+comment9.target=void\ print()
+numComments=10
