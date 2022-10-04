@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ScrabbleGame
+comment0.text=\n\ Joey\ Koumjian\n\ ScrabbleGame.java\n\ 7/29/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=word\ playerRack\ tiles
+comment10.target=java.util.ArrayList\ replenishRack(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=tiles
+comment2.target=java.util.ArrayList\ fillBag(java.util.ArrayList)
+comment3.params=tiles
+comment3.target=java.util.ArrayList\ makeRack(java.util.ArrayList)
+comment4.params=low\ high
+comment4.target=int\ randomInt(int,\ int)
+comment5.params=tiles
+comment5.target=void\ printAllTiles(java.util.ArrayList)
+comment6.params=word\ playerRack
+comment6.target=boolean\ validWord(java.lang.String,\ java.util.ArrayList)
+comment7.params=word\ tiles
+comment7.target=int\ scoreWord(java.lang.String,\ java.util.ArrayList)
+comment8.params=letter\ tiles
+comment8.target=int\ scoreOfLetter(char,\ java.util.ArrayList)
+comment9.params=letter\ word
+comment9.target=int\ countLetters(char,\ java.lang.String)
+numComments=11

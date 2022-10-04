@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\n\ Write\ a\ description\ of\ class\ Tile\ here.\n\ \n\ @author\ Rachel\ Weber\ \n\ @version\ November\ 6,\ 2014\n
+comment1.params=
+comment1.target=Tile()
+comment2.params=letter\ value
+comment2.target=Tile(char,\ int)
+comment3.params=
+comment3.target=char\ getLetter()
+comment4.params=
+comment4.target=int\ getValue()
+comment5.params=letter
+comment5.target=void\ setLetter(char)
+comment6.params=value
+comment6.target=void\ setValue(int)
+comment7.params=
+comment7.target=void\ print()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
