@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BattleBug
+comment0.text=\r\n\ A\ <code>BoxBug</code>\ traces\ out\ a\ square\ "box"\ of\ a\ given\ size.\ <br\ />\r\n\ The\ implementation\ of\ this\ class\ is\ testable\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\r\n
+comment1.params=length\ winFlower
+comment1.target=BattleBug(int,\ int)
+comment1.text=\r\n\ Constructs\ a\ box\ bug\ that\ traces\ a\ square\ of\ a\ given\ side\ length\r\n\ @param\ length\ the\ side\ length\r\n
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Moves\ to\ the\ next\ location\ of\ the\ square.\r\n
+numComments=4

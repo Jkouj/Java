@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BlueBug
+comment0.text=\r\n\ A\ <code>BoxBug</code>\ traces\ out\ a\ square\ "box"\ of\ a\ given\ size.\ <br\ />\r\n\ The\ implementation\ of\ this\ class\ is\ testable\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moves\ to\ the\ next\ location\ of\ the\ square.\r\n
+comment2.params=
+comment2.target=void\ randomTurn()
+comment2.text=\r\n\ Turns\ left\ or\ right\ 45\ degrees\ at\ random.\r\n
+comment3.params=degrees
+comment3.target=void\ turn(int)
+comment3.text=\r\n\ Turns\ the\ given\ number\ of\ degrees.\r\n
+numComments=4

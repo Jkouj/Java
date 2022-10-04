@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BugRunnerWithKeystroke
+comment0.text=\r\n\ This\ class\ runs\ a\ world\ that\ contains\ a\ bug\ and\ a\ rock,\ added\ at\ random\r\n\ locations.\ Click\ on\ empty\ locations\ to\ add\ additional\ actors.\ Click\ on\r\n\ populated\ locations\ to\ invoke\ methods\ on\ their\ occupants.\ <br\ />\r\n\ To\ build\ your\ own\ worlds,\ define\ your\ own\ actors\ and\ a\ runner\ class.\ See\ the\r\n\ BoxBugRunner\ (in\ the\ boxBug\ folder)\ for\ an\ example.\ <br\ />\r\n\ This\ class\ is\ not\ tested\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=event
+comment2.target=boolean\ dispatchKeyEvent(java.awt.event.KeyEvent)
+comment3.params=world\ row\ col\ numRocks
+comment3.target=void\ vertRockLine(info.gridworld.actor.ActorWorld,\ int,\ int,\ int)
+numComments=4
