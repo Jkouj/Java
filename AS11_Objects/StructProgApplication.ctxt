@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StructProgApplication
+comment0.text=\n\ CodingBatApp\:\ a\ class\ that\ uses\ CodingBat\ methods\ to\ assist\ with\ various\ tasks\n\ \n\ \ \ \ An\ example\ of\ the\ Structured\ Programming\ paradigm,\ which\ was\ the\ dominant\n\ \ \ \ way\ of\ programming\ from\ the\ 1960's\ to\ the\ 1980's\ (and\ is\ still\ in\ use\ today)\n\ \ \ \ \n\ \ \ \ This\ demo\ is\ developed\ in\ lecture,\ see\ the\ lecture\ video\ for\ more\ info\ \n\ \ \ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

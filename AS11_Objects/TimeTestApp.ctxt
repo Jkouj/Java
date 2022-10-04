@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TimeTestApp
+comment0.text=\n\ class\ TimeTestApp\ tests\ our\ new\ Time\ class\ by\ creating\n\ \ \ objects\ and\ trying\ out\ the\ object\ methods\ on\ them\n\ \ \ \n\ \ \ We\ develop\ this\ class\ in\ the\ lecture,\ watch\ the\ video\n\ \ \ to\ see\ the\ class\ being\ developed\ and\ follow\ along\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
