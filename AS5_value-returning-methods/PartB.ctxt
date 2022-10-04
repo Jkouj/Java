@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PartB
+comment0.text=\n\ Joey\ Koumjian\n\ PartB.java\n\ 6/23/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m\ n
+comment2.target=int\ prod(int,\ int)
+comment3.params=n
+comment3.target=int\ triangleCount(int)
+numComments=4

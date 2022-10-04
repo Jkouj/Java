@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ValueReturningMethods
+comment0.text=\ \r\n\ Demonstration\ of\ Value\ returning\ methods\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=radius
+comment2.target=double\ area(double)
+comment3.params=x
+comment3.target=double\ absoluteValue(double)
+comment4.params=number
+comment4.target=boolean\ isValid(int)
+comment5.params=n
+comment5.target=void\ nLines(int)
+comment6.params=n
+comment6.target=void\ countdown(int)
+numComments=7

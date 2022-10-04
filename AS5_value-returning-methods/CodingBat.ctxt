@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.target=CodingBat
+comment0.text=\n\ Write\ a\ description\ of\ class\ PartA\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=weekday\ vacation
+comment2.target=boolean\ sleepIn(boolean,\ boolean)
+comment2.text=\ 1)\ sleepIn\n\ \ \ \ The\ parameter\ weekday\ is\ true\ if\ it\ is\ a\ weekday,\ \n\ \ \ \ and\ the\ parameter\ vacation\ is\ true\ if\ we\ are\ on\ vacation.\ \n\ \ \ \ We\ sleep\ in\ if\ it\ is\ not\ a\ weekday\ or\ we're\ on\ vacation.\ \n\ \ \ \ Return\ true\ if\ we\ sleep\ in.\ \n
+comment3.params=aSmile\ bSmile
+comment3.target=boolean\ monkeyTrouble(boolean,\ boolean)
+comment3.text=\ 2)\ monkeyTrouble\ \n\ \ \ \ We\ have\ two\ monkeys,\ a\ and\ b,\ and\ the\ parameters\ \n\ \ \ \ aSmile\ and\ bSmile\ indicate\ if\ each\ is\ smiling.\ \n\ \ \ \ We\ are\ in\ trouble\ if\ they\ are\ both\ smiling\ \n\ \ \ \ or\ if\ neither\ of\ them\ is\ smiling.\ \n\ \ \ \ Return\ true\ if\ we\ are\ in\ trouble.\ \n
+comment4.params=a\ b
+comment4.target=int\ sumDouble(int,\ int)
+comment4.text=\ 3)\ sumDouble\ \n\ \ \ \ Given\ two\ int\ values,\ return\ their\ sum.\ \n\ \ \ \ Unless\ the\ two\ values\ are\ the\ same,\ \n\ \ \ \ then\ return\ double\ their\ sum.\n\ \ \ \ \n\ \ \ \ write\ your\ sumDouble\ method\ here\:\n
+comment5.params=cigars\ isWeekend
+comment5.target=boolean\ cigarParty(int,\ boolean)
+comment5.text=\ 4)\ cigarParty\n\ \ \ \ When\ squirrels\ get\ together\ for\ a\ party,\ they\ like\n\ \ \ \ to\ have\ cigars.\ A\ squirrel\ party\ is\ successful\ when\n\ \ \ \ the\ number\ of\ cigars\ is\ between\ 40\ and\ 60,\ inclusive.\n\ \ \ \ Unless\ it\ is\ the\ weekend,\ in\ which\ case\ there\ is\ no\n\ \ \ \ upper\ bound\ on\ the\ number\ of\ cigars.\ \n\ \ \ \ Return\ true\ if\ the\ party\ with\ the\ given\ values\ is\ \n\ \ \ \ successful,\ or\ false\ otherwise.\ See\ assignment\ handout\ \n\ \ \ \ for\ hints.\n\ \ \ \ write\ your\ cigarParty\ method\ here\:\ \ \n
+comment6.params=speed\ isBirthday
+comment6.target=int\ caughtSpeeding(int,\ boolean)
+comment6.text=\ 5)\ caughtSpeeding\ \n\ You\ are\ driving\ a\ little\ too\ fast,\ and\ a\ police\ officer\ \n\ stops\ you.\ Write\ code\ to\ compute\ the\ result,\ encoded\ as\ \n\ an\ int\ value\:\ 0\=no\ ticket,\ 1\=small\ ticket,\ 2\=big\ ticket.\ \n\ If\ speed\ is\ 60\ or\ less,\ the\ result\ is\ 0.\ \n\ If\ speed\ is\ between\ 61\ and\ 80\ inclusive,\ the\ result\ is\ 1.\ \n\ If\ speed\ is\ 81\ or\ more,\ the\ result\ is\ 2.\ \n\ Unless\ it\ is\ your\ birthday\ --\ on\ that\ day,\ your\ speed\ can\n\ be\ 5\ higher\ in\ all\ cases.\ \n\ \n\ write\ your\ caughtSpeeding\ method\ here\n
+comment7.params=a\ b
+comment7.target=int\ teenSum(int,\ int)
+comment7.text=\ 6)\ teenSum\n\ Given\ 2\ ints,\ a\ and\ b,\ return\ their\ sum.\ \n\ However,\ "teen"\ values\ in\ the\ range\ 13..19\ inclusive,\n\ are\ extra\ lucky.\ So\ if\ either\ value\ is\ a\ teen,\ \n\ just\ return\ 19.\n\ \ \ \ \n\ write\ your\ teenSum\ method\ here\n
+comment8.params=n
+comment8.target=int\ factorial(int)
+comment9.params=n
+comment9.target=int\ sumDigits(int)
+comment9.text=\ 8)\ sumDigits\n\ \ \ \ Given\ a\ non-negative\ int\ n,\ return\ the\ sum\ of\ its\ digits\ \n\ \ \ \ recursively\ (no\ loops).\ Note\ that\ mod\ (%)\ by\ 10\ yields\ \n\ \ \ \ the\ rightmost\ digit\ (126\ %\ 10\ is\ 6),\ while\ divide\ (/)\ \n\ \ \ \ by\ 10\ removes\ the\ rightmost\ digit\ (126\ /\ 10\ is\ 12).\ \n\ \ \ \ \n\ \ \ \ write\ your\ sumDigits\ method\ here\n
+numComments=10

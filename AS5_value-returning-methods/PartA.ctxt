@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PartA
+comment0.text=\n\ Joey\ Koumjian\n\ PartA.java\n\ 6/21/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ m
+comment2.target=boolean\ isDivisible(int,\ int)
+comment3.params=a\ b\ c
+comment3.target=double\ multAdd(double,\ double,\ double)
+comment4.params=a\ b\ c
+comment4.target=boolean\ isTriangle(int,\ int,\ int)
+numComments=5
